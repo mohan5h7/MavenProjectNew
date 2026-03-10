@@ -9,5 +9,7 @@ public class Program {
 		
 		driver.findelements
 		
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		
 	}
 }
